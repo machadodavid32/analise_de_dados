@@ -1,0 +1,1 @@
+Vamos utilizar aquivos .ypynb que são os mais usados em analise de dados
